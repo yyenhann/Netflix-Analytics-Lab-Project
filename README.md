@@ -53,6 +53,12 @@ To answer the question: “How do preferences differ for different regions and c
 | Brazil        | Higher percentage of Spanish shows predicted to hit top ten                 |
 | Commonalities | Animation shows prioritize good writers; fewer predicted top ten shows      |
 
+## Report
+[15.572 Final Report](./netflix-alab-report.pdf)
+
+## Presentation
+[15.572 Final Presentation](./netflix-alab-ppt.pdf)
+
 
 
 
