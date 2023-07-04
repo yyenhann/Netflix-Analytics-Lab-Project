@@ -51,7 +51,7 @@ To answer the question: “How do preferences differ for different regions and c
 |---------------|----------------------------------------------------------------------------|
 | South Korea   | Preference for comedies and longer run times; fewer predicted top ten shows |
 | Brazil        | Higher percentage of Spanish shows predicted to hit top ten                 |
-| Common Across | Animation shows prioritize good writers; fewer predicted top ten shows      |
+| Commonalities | Animation shows prioritize good writers; fewer predicted top ten shows      |
 
 
 
