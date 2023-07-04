@@ -57,7 +57,7 @@ To answer the question: “How do preferences differ for different regions and c
 [15.572 Final Report](./netflix-alab-report.pdf)
 
 ## Presentation
-[15.572 Final Presentation](./netflix-alab-ppt.pdf)
+[15.572 Final Presentation](./netflix-alab-final-ppt.pdf)
 
 
 
