@@ -37,7 +37,7 @@ The results shown are for movies but the same pattern was also seen with TV show
 
 To answer the question: “How do preferences differ for different regions and countries,” we trained a separate XGB model for a country from each continent to get a representative example of different markets. The results and some of the key findings were as follows for some of the countries:
 
-![Country XGB Performances](./model-performances-country.png)
+![Country XGB Performances](./model-performances-countries.png)
 
 **Movies**:
 | Countries   | Key Features                                                   |
